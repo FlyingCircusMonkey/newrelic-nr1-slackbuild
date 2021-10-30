@@ -1,0 +1,1 @@
+ln -s /usr/lib/newrelic-cli/bin/nr1 /usr/bin/nr1
